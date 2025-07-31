@@ -1,0 +1,21 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Thu Jul 31 09:09:41 2025 
+Best design point: 1
+Design specs: 
+	edtest00_SIM_bgtop_1	corner	Nominal - 
+	Loop Gain Phase		Error	No
+	Loop Gain dB20		Error	No
+	PM		Error	No
+	UGF		Error	No
+	GM		Error	No
+	GMF		Error	No
+	dB20(mag(v("/vref" ?result "ac")))		Error	No
+	DCG		Error	No
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Thu Jul 31 09:10:10 2025 
